@@ -15,7 +15,7 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 Hello, this is Noel and Jacob Computing II Project
 
-The main purpose of our project is to make a program that will use a formula based on the absorbance/color of pond water to determine different levels of a chemical. We plan on using an R notebook, and we plan on using the statistical analysis based in R. We plan to record our data in csc file in a tidy format.
+The main purpose of our project is to make a program is we will use a Jupyter notebook to determine the propotion of adeonine in a genectic sequence that are in FASTA format and compare the metabolic rate based on weight in diffrent animals. The program is also used to calculate the amount of A in the entire sequence. We plan to record our data in in a tidy format.
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
