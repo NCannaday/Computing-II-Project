@@ -2,5 +2,4 @@
 Hello, this is Noel and Jacob Computing II Project
 
 
-The main purpose of our project is to make a program is we will use a Jupyter notebook to determine the propotion of adeonine in a genectic sequence that are in FASTA format and compare the metabolic rate based on weight in diffrent animals. The program is also used to calculate the amount of A in the entire sequence.
-We plan to record our data in csc file in a tidy format.
+This program compares the metabolic rate of a species in relation to the adenine content in their ACTA1 gene. This is accomplished by taking the adenine content from the uploaded FASTA sequences and determining the proportion of adenine. The proportion is then used in relation to the species-specific metabolic rate.
